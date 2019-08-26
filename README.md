@@ -91,10 +91,6 @@ python -m friendly-telegram
 ```
 Make sure to enable the wakelock from Termux notification, especially on MIUI
 
-### Windows
-
-- All terminal related features don't work. I'll fix it later.
-
 ### Mac OS X
 
 #### Installing python 3 and other dependencies 
